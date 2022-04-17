@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "111b0548503b896c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9d0c18a0e3250d7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "BootcampOS/Module 1/2. Intro to Programming in Java/05. Intro to Objects/3. Strings.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba5f50f1eea4bc91",
+    "type": "split",
+    "children": [
+      {
+        "id": "a54c2c49c169eb61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff224e9ec4dd6644",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "60c6a67ab4034e87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e4b1e6f69b11e479",
+    "type": "split",
+    "children": [
+      {
+        "id": "611ab3cf672d86f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f32247135da26b5d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BootcampOS/Module 1/2. Intro to Programming in Java/05. Intro to Objects/3. Strings.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b9d0c18a0e3250d7",
+  "lastOpenFiles": [
+    "BootcampOS/Module 1/2. Intro to Programming in Java/05. Intro to Objects/3. Strings.md",
+    "BootcampOS/Module 2/2. Client-Server Programming in Java/1. Intro to Databases/4. The WHERE Clause.md",
+    "BootcampOS/Module 2/2. Client-Server Programming in Java/1. Intro to Databases/3. SQL Statements.md",
+    "BootcampOS/Module 2/2. Client-Server Programming in Java/1. Intro to Databases/2. SQL Data Types.md",
+    "BootcampOS/Module 2/2. Client-Server Programming in Java/1. Intro to Databases/1. Relational Databases.md",
+    "BootcampOS/Module 2/1. Intro to Tools/5. NPM/5. Using NPM.md",
+    "BootcampOS/Module 2/1. Intro to Tools/4. Postman/3. Making Requests.md",
+    "BootcampOS/Module 2/1. Intro to Tools/4. Postman/2. Postman Interface.md",
+    "BootcampOS/Module 2/1. Intro to Tools/4. Postman/1. What's Postman.md",
+    "BootcampOS/Module 2/1. Intro to Tools/5. NPM/1. What's a Package.md"
+  ]
+}
