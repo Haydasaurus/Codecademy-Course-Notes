@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "353fddf4a7c07a59",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f1f16c2fb796399",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Catalog/Courses/Beginner Friendly/Learn Java/03. Object-Oriented Java/5. Lesson - Learn Java (Methods)/8. The toString() Method.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06e0b2c6cc559c3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b23268508778bc7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01022b22a467f3bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "76b86427a2fa9484",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e077e3738abe1617",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c613e6bf4ef566f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a318f07bda9df5d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Catalog/Courses/Beginner Friendly/Learn Java/03. Object-Oriented Java/5. Lesson - Learn Java (Methods)/8. The toString() Method.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5f1f16c2fb796399",
+  "lastOpenFiles": [
+    "Catalog/Courses/Beginner Friendly/Learn Java/03. Object-Oriented Java/5. Lesson - Learn Java (Methods)/8. The toString() Method.md",
+    "Catalog/Courses/Beginner Friendly/Learn Java/03. Object-Oriented Java/5. Lesson - Learn Java (Methods)/7. Returns.md",
+    "Catalog/Courses/Beginner Friendly/Learn Java/03. Object-Oriented Java/5. Lesson - Learn Java (Methods)/6. Reassigning Instance Fields.md",
+    "Catalog/Courses/Beginner Friendly/Learn Java/03. Object-Oriented Java/5. Lesson - Learn Java (Methods)/5. Adding Parameters.md",
+    "Catalog/Courses/Beginner Friendly/Learn Java/03. Object-Oriented Java/5. Lesson - Learn Java (Methods)/3. Calling Methods.md",
+    "Catalog/Courses/Beginner Friendly/Learn Java/03. Object-Oriented Java/5. Lesson - Learn Java (Methods)/4. Scope.md"
+  ]
+}
