@@ -1,4 +1,4 @@
-### Declaring a Method
+# Declaring a Method
 
 ```java
 // Here is a public method named sum whose return type is int and has two int parameters a and b
